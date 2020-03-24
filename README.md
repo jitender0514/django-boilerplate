@@ -13,3 +13,6 @@ Boilerplate code for Django project setup
 - Create Virtual environment and activate it.
 - Install the requirements using bellow command
 `pip install -r requirements.txt`
+
+##NOTE:
+Please create the `static` and `media` folder in your project root directory.
